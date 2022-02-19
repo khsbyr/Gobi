@@ -1,0 +1,282 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "WOMEN"
+        },
+        {
+            "id": 2,
+            "name": "MEN"
+        },
+        {
+            "id": 3,
+            "name": "HOME"
+        },
+        {
+            "id": 4,
+            "name": "ACCESSORIES"
+        },
+        {
+            "id": 5,
+            "name": "ORGANIC"
+        }
+    ],
+
+    "searchShop": [
+        {
+            "id": 1,
+            "title": "Chill Summer Essential Set",
+            "src": "assets/Rectangle 692.png",
+            "price": "$899",
+            "sale": "$620.32"
+        },
+        {
+            "id": 2,
+            "title": "Chill Summer Essential Set",
+            "src": "assets/Rectangle 692.png",
+            "price": "$899",
+            "sale": "$620.32"
+        },    {
+            "id": 3,
+            "title": "Chill Summer Essential Set",
+            "src": "assets/Rectangle 692.png",
+            "price": "$899",
+            "sale": "$620.32"
+        },    {
+            "id": 4,
+            "title": "Chill Summer Essential Set",
+            "src": "assets/Rectangle 692.png",
+            "price": "$899",
+            "sale": "$620.32"
+        }
+    ],
+
+    "serachMenu": [
+        {
+            "id": 1,
+            "name": "Sweater"
+        },
+        {
+            "id": 2,
+            "name": "Basic"
+        },
+        {
+            "id": 3,
+            "name": "Cardigans"
+        },
+        {
+            "id": 4,
+            "name": "Hoodies"
+        },
+        {
+            "id": 5,
+            "name": "Crew Necks"
+        },
+        {
+            "id": 6,
+            "name": "Turtle Necks"
+        },
+        {
+            "id": 7,
+            "name": "V Necks"
+        },
+        {
+            "id": 8,
+            "name": "Vests & Tops"
+        }
+    ],
+
+    "winterSpice":{
+        "text": "WINTER SPICE 2020",
+        "description": "Infusion of summer pieces and cashmere silk blends."
+    },
+
+    "women": [
+        {
+            "id": 1,
+            "src": "assets/gobi3.png",
+            "type": "CARDIGANS",
+            "icon": "assets/svg/Group 1216.svg"
+            
+        },
+        {
+            "id": 2,
+            "src": "assets/gobi4.png",
+            "type": "DRESSES",
+            "icon": "assets/svg/Group 1216.svg"
+
+        }
+    ],
+
+    "men": [
+        {
+            "id": 1,
+            "src": "assets/gobi5.png",
+            "type": "CARDIGANS",
+            "icon": "assets/svg/Group 1216.svg"
+            
+        },
+        {
+            "id": 2,
+            "src": "assets/gobi6.png",
+            "type": "CARDIGANS",
+            "icon": "assets/svg/Group 1216.svg"
+
+        }
+    ],
+
+    "shop": [
+        {
+            "id": 1,
+            "src": "assets/gobi7.png",
+            "title": "Zweiseitiger Wendemantel Mit Schmetterlingsxzds",
+            "price": "299.00",
+            "sale": "79.00",
+            "new": true
+        },
+        {
+            "id": 2,
+            "src": "assets/gobi8.png",
+            "title": "Écharpe tisée avec bords contrastants et franges",
+            "price": "429.00",
+            "sale": "80.00",
+            "new": false
+
+        },
+        {
+            "id": 3,
+            "src": "assets/gobi9.png",
+            "title": "Трикотажный Супер Мягкий Плед Контрастного Оттенка",
+            "price": "120.00",
+            "sale": "40.00",
+            "new": true
+
+        },
+        {
+            "id": 4,
+            "src": "assets/gobi10.png",
+            "title": "Кардиган в Стиле Колор-Блок с V-Образным Воротником",
+            "price": "325.00",
+            "sale": "120.00",
+            "new": false
+
+        },
+        {
+            "id": 5,
+            "src": "assets/gobi11.png",
+            "title": "Zweiseitiger Wendemantel Mit Schmetterlingsxzds",
+            "price": "401.00",
+            "sale": "212.00",
+            "new": true
+
+        },
+        {
+            "id": 6,
+            "src": "assets/gobi12.png",
+            "title": "Écharpe tisée avec bords contrastants et franges",
+            "price": "400",
+            "sale": "204",
+            "new": false
+        },
+        {
+            "id": 7,
+            "src": "assets/gobi13.png",
+            "title": "Трикотажный Супер Мягкий Плед Контрастного Оттенка",
+            "price": "299",
+            "sale": "79",
+            "new": false
+        },
+        {
+            "id": 8,
+            "src": "assets/gobi14.png",
+            "title": "Кардиган в Стиле Колор-Блок с V-Образным Воротником",
+            "price": "305",
+            "sale": "81",
+            "new": true
+
+        }
+    ],
+
+    "about": {
+        "text": "ABOUT US",
+        "description": "Aute et officia anim consectetur consequat velit minim irure Lorem ad. Officia nisi sunt est eiusmod occaecat excepteur velit reprehenderit occaecat cillum anim ad magna aliqua. Sint enim Lorem amet in tempor non ea duis cillum. Cillum consectetur in in aliqua. Nostrud minim duis cupidatat et ea sint."
+    },
+
+    "footer": [
+        {
+            "id": 1,
+            "title":"ABOUT US",
+            "sub": [
+                {
+                    "text": "Our History"
+                },   {
+                    "text": "Product Care"
+                },   {
+                    "text": "Store Location"
+                },   {
+                    "text": "Sustainability"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title":"POLICY",
+            "sub": [
+                {
+                    "text": "Shipping & Return Policy"
+                },   {
+                    "text": "Privacy Policy"
+                },   {
+                    "text": "Impressum"
+                },   {
+                    "text": "Return Portal"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title":"CUSTOMER SERVICE",
+            "sub": [
+                {
+                    "text": "General Terms and Conditions"
+                },   {
+                    "text": "Contact Us"
+                },   {
+                    "text": "News"
+                },   {
+                    "text": "FAQ"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title":"CUSTOMER SERVICE",
+            "sub": [
+                {
+                    "text": "General Terms and Conditions"
+                },   {
+                    "text": "Contact Us"
+                },   {
+                    "text": "News"
+                },   {
+                    "text": "FAQ"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title":"FOLLOW US",
+            "sub": [
+                {
+                    "text": "Facebook"
+                },   {
+                    "text": "Instagram"
+                },   {
+                    "text": "Twitter"
+                },   {
+                    "text": "Youtube"
+                }
+            ]
+        }
+    ]
+}
