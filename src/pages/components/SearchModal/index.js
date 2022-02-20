@@ -3,7 +3,7 @@ import data from "../../data/data.json";
 
 const SearchModal = () => {
   return (
-    <div className="absolute top-[110px] right-[165px]">
+    <div className="absolute top-[110px] right-[125px] xl:right-[165px]">
       <div className="w-[800px] h-96 bg-searchBg rounded-br-lg rounded-bl-lg">
         <div className="flex py-6 px-10">
           <div className="w-3/5">
