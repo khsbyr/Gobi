@@ -129,6 +129,7 @@
         {
             "id": 1,
             "src": "assets/gobi7.png",
+            "src2": "assets/gobi9.png",
             "title": "Zweiseitiger Wendemantel Mit Schmetterlingsxzds",
             "price": "299.00",
             "sale": "79.00",
@@ -137,6 +138,7 @@
         {
             "id": 2,
             "src": "assets/gobi8.png",
+            "src2": "assets/gobi10.png",
             "title": "Écharpe tisée avec bords contrastants et franges",
             "price": "429.00",
             "sale": "80.00",
@@ -146,6 +148,7 @@
         {
             "id": 3,
             "src": "assets/gobi9.png",
+            "src2": "assets/gobi11.png",
             "title": "Трикотажный Супер Мягкий Плед Контрастного Оттенка",
             "price": "120.00",
             "sale": "40.00",
@@ -155,6 +158,7 @@
         {
             "id": 4,
             "src": "assets/gobi10.png",
+            "src2": "assets/gobi13.png",
             "title": "Кардиган в Стиле Колор-Блок с V-Образным Воротником",
             "price": "325.00",
             "sale": "120.00",
@@ -164,6 +168,7 @@
         {
             "id": 5,
             "src": "assets/gobi11.png",
+            "src2": "assets/gobi7.png",
             "title": "Zweiseitiger Wendemantel Mit Schmetterlingsxzds",
             "price": "401.00",
             "sale": "212.00",
@@ -173,6 +178,7 @@
         {
             "id": 6,
             "src": "assets/gobi12.png",
+            "src2": "assets/gobi9.png",
             "title": "Écharpe tisée avec bords contrastants et franges",
             "price": "400",
             "sale": "204",
@@ -181,6 +187,7 @@
         {
             "id": 7,
             "src": "assets/gobi13.png",
+            "src2": "assets/gobi7.png",
             "title": "Трикотажный Супер Мягкий Плед Контрастного Оттенка",
             "price": "299",
             "sale": "79",
@@ -189,6 +196,7 @@
         {
             "id": 8,
             "src": "assets/gobi14.png",
+            "src2": "assets/gobi10.png",
             "title": "Кардиган в Стиле Колор-Блок с V-Образным Воротником",
             "price": "305",
             "sale": "81",

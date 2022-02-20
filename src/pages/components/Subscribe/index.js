@@ -13,7 +13,7 @@ const Subscribe = () => {
 
       <div className="flex justify-center pt-10 pb-3">
         <input
-          className="w-1/2 h-14 rounded-lg bg-aboutBg placeholder:px-2 md:placeholder:px-8 placeholder:text-xs md:placeholder:text-base"
+          className="w-1/2 h-14 rounded-lg bg-aboutBg placeholder:px-2 md:placeholder:px-8 placeholder:text-xs md:placeholder:text-base focus:outline-none"
           placeholder="Enter your email address"
         />
         <button className="h-14 bg-shopNowButton text-white px-10 rounded-lg -ml-5 text-xs md:text-base">
